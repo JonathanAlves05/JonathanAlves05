@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m looking for a job<br>📚I'm studying Full Stack Java Script<br>📚I'm studying Systems Development
+🔭 I’m looking for a job<br>📚I'm studying Full Stack Javascript<br>📚I'm studying Systems Development
 
 
 ## 🌐 Socials:
