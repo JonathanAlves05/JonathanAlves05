@@ -6,11 +6,7 @@
 ### 🚀 Sobre Mim
 
 <p align="left">
-  Sou um desenvolvedor apaixonado por criar soluções funcionais e eficientes.
-  <br><br>
-  🎓 Formado como <strong>Técnico em Desenvolvimento de Sistemas (ETEC)</strong> e atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong>.
-  <br>
-  💡 No meu estágio atual, atuo de forma híbrida, combinando habilidades de <strong>Infraestrutura/Suporte</strong> (manutenção de máquinas, configuração de SO, suporte a usuários) com <strong>Cloud & DevOps</strong> (auxílio na administração de ambientes AWS e Azure).
+  Sou formado como Técnico em Desenvolvimento de Sistemas pela ETEC e atualmente curso Análise e Desenvolvimento de Sistemas. Possuo experiência prática no desenvolvimento web, mobile e automações com N8N. Atualmente atuo em estágio onde sou responsável pela manutenção de máquinas, incluindo formatação e configuração de sistemas operacionais, e auxilio na administração de ambientes e no suporte técnico a usuários.
 </p>
 
 ---
