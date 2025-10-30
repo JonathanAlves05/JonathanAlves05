@@ -65,18 +65,6 @@ Atualmente atuo em estágio onde sou responsável pela manutenção de máquinas
 
 
 
-<a href="https://github.com/JonathanAlves05">
-<img
-height="180em"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJonathanAlves05%26layout%3Dcompact%26theme%3Ddark%26bg_color%3D1a1a1a%26title_color%3D00C0FF%26text_color%3De0e0e0%26border_radius%3D8%26border_color%3D00000000"
-alt="Linguagens Mais Usadas"
-/>
-</a>
-</div>
-
-
-
-<!-- 6. SEÇÃO "CONTATO" (com badges) -->
 
 📬 Entre em Contato
 
