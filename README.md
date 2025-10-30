@@ -61,30 +61,7 @@ alt="Linguagens Mais Usadas"
 </a>
 </div>
 
-<!-- 5. SEÇÃO "PROJETOS" -->
 
-🌟 Projetos em Destaque
-
-<!-- Projeto 1: Pets CRUD (GitHub Repo Card) -->
-
-<a href="https://www.google.com/search?q=https://github.com/JonathanAlves05/projetoPets-CRUD" align="center">
-<img
-align="center"
-width="400px"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DJonathanAlves05%26repo%3DprojetoPets-CRUD%26theme%3Ddark%26bg_color%3D1a1a1a%26title_color%3D00C0FF%26text_color%3De0e0e0%26icon_color%3D00C0FF%26border_radius%3D8"
-alt="Projeto Pets CRUD"
-/>
-</a>
-
-Outros Projetos Relevantes
-
-Emerson Barbearia (Landing Page): Landing page 'Premium Urbano' focada em conversão, agendamento via WhatsApp e apresentação da marca.
-
-Doceria Dois Amores (E-commerce): Página de produtos com integração de um agente de IA (N8n) para atendimento virtual.
-
-NutriPlus Web (Landing Page): Página de apresentação para o aplicativo NutriPlus, destacando funcionalidades.
-
-App NutriPlus (Android): App nativo (Java) para automação de cálculos de custos e estoque, focado em engenharia de software (Scrum, UML, Figma).
 
 <!-- 6. SEÇÃO "CONTATO" (com badges) -->
 
