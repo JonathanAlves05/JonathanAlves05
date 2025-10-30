@@ -33,10 +33,7 @@
   <img src="https://img.shields.io/badge/N8N-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N"/>
   <br><br>
 
-  <strong>Cloud & Metodologias:</strong><br>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Scrum-0078D4?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"/>
+ 
 </p>
 
 ---
