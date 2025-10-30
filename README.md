@@ -48,7 +48,7 @@
 ### 📬 Entre em Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jonathan-alves-rodrigues-867160241/" target="_blank">
+  <a href="https://www.linkedin.com/in/jonathanalvess" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jarprodrigues05@gmail.com" target="_blank">
