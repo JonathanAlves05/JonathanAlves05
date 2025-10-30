@@ -63,21 +63,7 @@ Atualmente atuo em estágio onde sou responsável pela manutenção de máquinas
 
 
 
-<!-- 4. SEÇÃO "ESTATÍSTICAS" (Tematizado com as cores do portfólio) -->
 
-📊 Minhas Estatísticas do GitHub
-
-<div align="center">
-<!-- GitHub Stats Card -->
-<a href="https://github.com/JonathanAlves05">
-<img
-height="180em"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJonathanAlves05%26show_icons%3Dtrue%26theme%3Ddark%26bg_color%3D1a1a1a%26title_color%3D00C0FF%26text_color%3De0e0e0%26icon_color%3D00C0FF%26border_radius%3D8%26border_color%3D00000000"
-alt="Estatísticas de Jonathan Alves no GitHub"
-/>
-</a>
-
-<!-- Top Languages Card -->
 
 <a href="https://github.com/JonathanAlves05">
 <img
